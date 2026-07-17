@@ -1,5 +1,5 @@
-**## CSV FILE**  
-**### mock\_ops.csv data**  
+## CSV FILE  
+### mock\_ops.csv data  
 - timestamp  
 - date  
 - Zone  
@@ -8,8 +8,8 @@
 - Temperature\_C  
 - Flow\_Rate\_LPM
 
-**## API RESPONSE**  
-**### Open Meteo API \- past 1 month archived data**  
+## API RESPONSE
+### Open Meteo API \- past 1 month archived data
 - timestamp  
 - temperature\_2m  
 - relative\_humidity\_2m  
@@ -19,9 +19,9 @@
 - apparent\_temperature  
 - surface\_pressure  
 
-**## DATABASE RETRIEVAL**
-**### Merged and aligned data from both mock\_ops.csv and API response**
-**#### All of the above fields, selected:** 
+## DATABASE RETRIEVAL
+### Merged and aligned data from both mock\_ops.csv and API response
+#### All of the above fields, selected:
 - timestamp  
 - Zone  
 - Pressure\_PSI  
